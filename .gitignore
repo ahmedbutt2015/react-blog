@@ -5,6 +5,7 @@ event-bus/node_modules/
 
 # production
 /build
+/buildnew
 
 # misc
 .DS_Store
